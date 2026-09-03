@@ -3,7 +3,7 @@
  * @rote-frontmatter
  * ---
  * name: log-leak-map
- * description: Everyone hunts secrets in git history. This hunts log/output sinks. One row per Python/JS logging call: CONFIRMED SINK / SENSITIVE / SUSPICIOUS, DEBUG as a modifier, redacted reconstruction. Read-only, zero adapters, Python stdlib.
+ * description: "Everyone hunts secrets in git history. This hunts log/output sinks. One row per Python/JS logging call — CONFIRMED SINK / SENSITIVE / SUSPICIOUS, DEBUG as a modifier, redacted reconstruction. Read-only, zero adapters, Python stdlib."
  * provenance:
  *   author: rajgharat07
  *   tier: local
