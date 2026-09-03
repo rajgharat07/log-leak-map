@@ -1,0 +1,2 @@
+# Log Leak Map
+# Zero external dependencies — Python 3.9+ stdlib only.

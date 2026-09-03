@@ -1,0 +1,18 @@
+schema_version = 1
+
+[[tools]]
+id = "bash"
+command = "bash"
+required = true
+
+[[tools]]
+id = "git"
+command = "git"
+required = true
+version_requirement = ">=2.0.0"
+
+[[tools]]
+id = "python3"
+command = "python3"
+required = true
+version_requirement = ">=3.9.0"

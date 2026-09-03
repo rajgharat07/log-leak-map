@@ -1,0 +1,19 @@
+# Bytecode and local artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Reports generated during local runs
+demo-report*.md
+*.leak-report.md
+leak-report.md
+
+# Hall-of-fame clones (local only — do not ship)
+_hall_of_fame/
+
+# Rote local lint sidecar
+play/.rote-flow-lint.json
+
+# OS
+.DS_Store
+Thumbs.db
